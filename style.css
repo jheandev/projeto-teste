@@ -1,0 +1,42 @@
+
+#titulo{
+    font-family: sans-serif;
+    margin-left: 7%;
+    font-size: 60px;
+}
+
+#subtitulo{
+    font-family: sans-serif;
+    margin-left: 7%;
+    font-size: 30px;
+}
+
+fieldset{
+    margin: 100px 0;
+    width:50%;
+   
+
+}
+
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
+form{
+    margin: 40px 0;
+}
+
+form label {
+    display: block;
+    font-size: 30px;
+    margin: 0 0 10px;
+}
+
+form input{
+    display: block;
+    margin: 0 0 20px;
+    padding: 5px 30px;
+    
+}
